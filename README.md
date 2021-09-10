@@ -24,9 +24,9 @@ _Clone repo:_
 * _Clone the repository to desktop using `git clone` in terminal_
 * _Open clone folder in text editor of your choice_
 _Execute tests:_
-* _Run `npm run test` in terminal/command line_
+* _Run `npm test` in terminal/command line_
 _View in browser:_
-* _Run `npm run start` start in terminal/command line_
+* _Run `npm start` start in terminal/command line_
 
 ## Known Bugs
 
@@ -36,7 +36,5 @@ _View in browser:_
 ## License
 
 ## Contact Information
-_Araceli Valdovinos valdovinosaraceli50@gmail.com, James Benjamin Pawlik james.benjamin.pawlik@gmail.com_
+_Araceli Valdovinos valdovinosaraceli50@gmail.com, Godfrey Owidi godfreyowiidi@gmail.com_
 
-//Co-Authored-By: Godfrey Owidi <godfreyowiidi@gmail.com>
-Co-Authored-By: Araceli Valdovinos <valdovinosaraceli50@gmail.com>
